@@ -1,0 +1,5 @@
+ PIL
+ magic
+ nacl
+ argon2
+ numpy
